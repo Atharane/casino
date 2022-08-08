@@ -1,8 +1,6 @@
 import random
 from time import sleep
-
 import requests
-
 from Cards import Shoe
 
 print('Elon Musk')
